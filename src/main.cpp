@@ -21,7 +21,7 @@
 #include <DallasTemperature.h>  // read Dallas Temp. Sensors
 #include <PubSubClient.h>       // MQTT
 #include <bits/stdc++.h>
-#include "hw_settings.h"
+#include "hw_settings.h"        // WiFi settings see hw_settings.template
 
 using namespace std;
 
