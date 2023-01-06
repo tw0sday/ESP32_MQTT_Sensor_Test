@@ -5,4 +5,5 @@
 .vscode/ipch
 *.bkp
 *.x
+*.disabled
 hw_settings.h
