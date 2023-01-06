@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../ESP32_TEST1"
+		},
+		{
+			"name": "ESP32_TFT1_8_SPI_TEST1",
+			"path": "../ESP32_TFT1_8_SPI_TEST1"
+		},
+		{
+			"name": "ESP32_TEST2",
+			"path": "../ESP32_TEST2"
+		},
+		{
+			"name": "ESP_Sprite_Test",
+			"path": "../ESP_Sprite_Test"
+		},
+		{
+			"name": "Sensor_Test1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
